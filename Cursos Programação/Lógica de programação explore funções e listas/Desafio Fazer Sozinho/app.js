@@ -1,3 +1,5 @@
+//Alteração teste comentário
+
 function verificarChute() {
     console.log("Chutou");
 }
